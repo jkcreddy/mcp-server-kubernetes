@@ -1,0 +1,1377 @@
+
+==> Audit <==
+┌──────────────┬────────────────┬──────────┬──────────┬─────────┬─────────────────────┬─────────────────────┐
+│   COMMAND    │      ARGS      │ PROFILE  │   USER   │ VERSION │     START TIME      │      END TIME       │
+├──────────────┼────────────────┼──────────┼──────────┼─────────┼─────────────────────┼─────────────────────┤
+│ update-check │                │ minikube │ kjaggav1 │ v1.31.2 │ 28 Sep 23 12:12 CDT │ 28 Sep 23 12:12 CDT │
+│ update-check │                │ minikube │ kjaggav1 │ v1.31.2 │ 28 Sep 23 12:18 CDT │ 28 Sep 23 12:18 CDT │
+│ update-check │                │ minikube │ kjaggav1 │ v1.31.2 │ 06 Oct 23 14:32 CDT │ 06 Oct 23 14:32 CDT │
+│ update-check │                │ minikube │ kjaggav1 │ v1.31.2 │ 11 Oct 23 16:22 CDT │ 11 Oct 23 16:22 CDT │
+│ update-check │                │ minikube │ kjaggav1 │ v1.31.2 │ 03 Nov 23 12:30 CDT │ 03 Nov 23 12:30 CDT │
+│ update-check │                │ minikube │ kjaggav1 │ v1.31.2 │ 14 Feb 24 08:58 CST │ 14 Feb 24 08:58 CST │
+│ update-check │                │ minikube │ kjaggav1 │ v1.31.2 │ 19 Mar 24 20:14 CDT │ 19 Mar 24 20:14 CDT │
+│ update-check │                │ minikube │ kjaggav1 │ v1.31.2 │ 29 May 24 17:19 CDT │ 29 May 24 17:19 CDT │
+│ update-check │                │ minikube │ kjaggav1 │ v1.31.2 │ 30 Aug 24 11:27 CDT │ 30 Aug 24 11:27 CDT │
+│ update-check │                │ minikube │ kjaggav1 │ v1.31.2 │ 30 Aug 24 11:27 CDT │ 30 Aug 24 11:27 CDT │
+│ update-check │                │ minikube │ kjaggav1 │ v1.31.2 │ 03 Sep 24 15:05 CDT │ 03 Sep 24 15:05 CDT │
+│ update-check │                │ minikube │ kjaggav1 │ v1.31.2 │ 03 Sep 24 16:13 CDT │ 03 Sep 24 16:13 CDT │
+│ update-check │                │ minikube │ kjaggav1 │ v1.33.1 │ 18 Oct 24 12:40 CDT │ 18 Oct 24 12:40 CDT │
+│ update-check │                │ minikube │ kjaggav1 │ v1.33.1 │ 03 Dec 24 16:19 CST │ 03 Dec 24 16:19 CST │
+│ update-check │                │ minikube │ kjaggav1 │ v1.33.1 │ 08 Dec 24 12:20 CST │ 08 Dec 24 12:20 CST │
+│ update-check │                │ minikube │ kjaggav1 │ v1.33.1 │ 08 Dec 24 17:00 CST │ 08 Dec 24 17:00 CST │
+│ update-check │                │ minikube │ kjaggav1 │ v1.33.1 │ 11 Jan 25 23:17 CST │ 11 Jan 25 23:17 CST │
+│ update-check │                │ minikube │ kjaggav1 │ v1.33.1 │ 13 Jan 25 15:17 CST │ 13 Jan 25 15:17 CST │
+│ update-check │                │ minikube │ kjaggav1 │ v1.33.1 │ 21 Feb 25 23:22 CST │ 21 Feb 25 23:22 CST │
+│ update-check │                │ minikube │ kjaggav1 │ v1.33.1 │ 26 Feb 25 10:17 CST │ 26 Feb 25 10:17 CST │
+│ update-check │                │ minikube │ kjaggav1 │ v1.33.1 │ 26 Feb 25 10:20 CST │ 26 Feb 25 10:20 CST │
+│ update-check │                │ minikube │ kjaggav1 │ v1.33.1 │ 26 Feb 25 10:22 CST │ 26 Feb 25 10:22 CST │
+│ update-check │                │ minikube │ kjaggav1 │ v1.33.1 │ 09 Mar 25 14:26 CDT │ 09 Mar 25 14:26 CDT │
+│ update-check │                │ minikube │ kjaggav1 │ v1.33.1 │ 11 Mar 25 21:51 CDT │ 11 Mar 25 21:51 CDT │
+│ update-check │                │ minikube │ kjaggav1 │ v1.33.1 │ 17 Mar 25 13:24 CDT │ 17 Mar 25 13:24 CDT │
+│ update-check │                │ minikube │ kjaggav1 │ v1.33.1 │ 02 Apr 25 17:03 CDT │ 02 Apr 25 17:03 CDT │
+│ update-check │                │ minikube │ kjaggav1 │ v1.33.1 │ 03 Apr 25 23:12 CDT │ 03 Apr 25 23:12 CDT │
+│ update-check │                │ minikube │ kjaggav1 │ v1.33.1 │ 15 Apr 25 22:59 CDT │ 15 Apr 25 22:59 CDT │
+│ update-check │                │ minikube │ kjaggav1 │ v1.33.1 │ 17 Apr 25 22:40 CDT │ 17 Apr 25 22:40 CDT │
+│ start        │ --driver=vfkit │ minikube │ kjaggav1 │ v1.38.1 │ 26 Apr 26 10:33 CDT │                     │
+└──────────────┴────────────────┴──────────┴──────────┴─────────┴─────────────────────┴─────────────────────┘
+
+
+==> Last Start <==
+Log file created at: 2026/04/26 10:33:09
+Running on machine: VV71058
+Binary: Built with gc go1.25.5 for darwin/arm64
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I0426 10:33:09.135427   16765 out.go:360] Setting OutFile to fd 1 ...
+I0426 10:33:09.135698   16765 out.go:413] isatty.IsTerminal(1) = true
+I0426 10:33:09.135700   16765 out.go:374] Setting ErrFile to fd 2...
+I0426 10:33:09.135703   16765 out.go:413] isatty.IsTerminal(2) = true
+I0426 10:33:09.135865   16765 root.go:338] Updating PATH: /Users/kjaggav1/.minikube/bin
+W0426 10:33:09.136023   16765 root.go:314] Error reading config file at /Users/kjaggav1/.minikube/config/config.json: open /Users/kjaggav1/.minikube/config/config.json: no such file or directory
+I0426 10:33:09.138759   16765 out.go:368] Setting JSON to false
+I0426 10:33:09.178158   16765 start.go:134] hostinfo: {"hostname":"VV71058","uptime":1645984,"bootTime":1775571605,"procs":666,"os":"darwin","platform":"darwin","platformFamily":"Standalone Workstation","platformVersion":"26.4","kernelVersion":"25.4.0","kernelArch":"arm64","virtualizationSystem":"","virtualizationRole":"","hostId":"f6d4bc0c-7023-5d31-aa61-dbb222444f4a"}
+W0426 10:33:09.178255   16765 start.go:142] gopshost.Virtualization returned error: not implemented yet
+I0426 10:33:09.185650   16765 out.go:179] 😄  minikube v1.38.1 on Darwin 26.4 (arm64)
+I0426 10:33:09.193855   16765 notify.go:220] Checking for updates...
+W0426 10:33:09.193892   16765 preload.go:371] Failed to list preload files: open /Users/kjaggav1/.minikube/cache/preloaded-tarball: no such file or directory
+I0426 10:33:09.194124   16765 driver.go:422] Setting default libvirt URI to qemu:///system
+I0426 10:33:09.202745   16765 out.go:179] ✨  Using the vfkit driver based on user configuration
+I0426 10:33:09.206661   16765 start.go:310] selected driver: vfkit
+I0426 10:33:09.206689   16765 start.go:935] validating driver "vfkit" against <nil>
+I0426 10:33:09.206698   16765 start.go:946] status for vfkit: {Installed:true Healthy:true Running:true NeedsImprovement:false Error:<nil> Reason: Fix: Doc: Version:}
+W0426 10:33:09.206853   16765 out.go:285] ❗  Starting v1.39.0, minikube will default to "containerd" container runtime. See #21973 for more info.
+I0426 10:33:09.206915   16765 start_flags.go:332] no existing cluster config was found, will generate one from the flags 
+I0426 10:33:09.207772   16765 start_flags.go:416] Using suggested 4000MB memory alloc based on sys=16384MB, container=0MB
+I0426 10:33:09.208149   16765 start_flags.go:1000] Wait components to verify : map[apiserver:true system_pods:true]
+I0426 10:33:09.208197   16765 cni.go:83] Creating CNI manager for ""
+I0426 10:33:09.208263   16765 cni.go:157] "vfkit" driver + "docker" container runtime found on kubernetes v1.24+, recommending bridge
+I0426 10:33:09.208272   16765 start_flags.go:341] Found "bridge CNI" CNI - setting NetworkPlugin=cni
+I0426 10:33:09.208321   16765 start.go:358] cluster config:
+{Name:minikube KeepContext:false EmbedCerts:false MinikubeISO: KicBaseImage:gcr.io/k8s-minikube/kicbase:v0.0.50@sha256:eb4fec00e8ad70adf8e6436f195cc429825ffb85f95afcdb5d8d9deb576f3e93 Memory:4000 CPUs:2 DiskSize:20000 Driver:vfkit HyperkitVpnKitSock: HyperkitVSockPorts:[] DockerEnv:[] ContainerVolumeMounts:[] InsecureRegistry:[] RegistryMirror:[] HostOnlyCIDR:192.168.59.1/24 HypervVirtualSwitch: HypervUseExternalSwitch:false HypervExternalAdapter: KVMNetwork:default KVMQemuURI:qemu:///system KVMGPU:false KVMHidden:false KVMNUMACount:1 APIServerPort:8443 DockerOpt:[] DisableDriverMounts:false NFSShare:[] NFSSharesRoot:/nfsshares UUID: NoVTXCheck:false DNSProxy:false HostDNSResolver:true HostOnlyNicType:virtio NatNicType:virtio SSHIPAddress: SSHUser:root SSHKey: SSHPort:22 KubernetesConfig:{KubernetesVersion:v1.35.1 ClusterName:minikube Namespace:default APIServerHAVIP: APIServerName:minikubeCA APIServerNames:[] APIServerIPs:[] DNSDomain:cluster.local ContainerRuntime:docker CRISocket: NetworkPlugin:cni FeatureGates: ServiceCIDR:10.96.0.0/12 ImageRepository: LoadBalancerStartIP: LoadBalancerEndIP: CustomIngressCert: RegistryAliases: ExtraOptions:[] ShouldLoadCachedImages:true EnableDefaultCNI:false CNI:} Nodes:[{Name: IP: Port:8443 KubernetesVersion:v1.35.1 ContainerRuntime:docker ControlPlane:true Worker:true}] Addons:map[] CustomAddonImages:map[] CustomAddonRegistries:map[] VerifyComponents:map[apiserver:true system_pods:true] StartHostTimeout:6m0s ScheduledStop:<nil> ExposedPorts:[] ListenAddress: Network:nat Subnet: MultiNodeRequested:false ExtraDisks:0 CertExpiration:26280h0m0s MountString: Mount9PVersion:9p2000.L MountGID:docker MountIP: MountMSize:262144 MountOptions:[] MountPort:0 MountType:9p MountUID:docker BinaryMirror: DisableOptimizations:false DisableMetrics:false DisableCoreDNSLog:false CustomQemuFirmwarePath: SocketVMnetClientPath: SocketVMnetPath: StaticIP: SSHAuthSock: SSHAgentPID:0 GPUs: AutoPauseInterval:1m0s Rosetta:false}
+I0426 10:33:09.210080   16765 iso.go:125] acquiring lock: {Name:mk4fd4fedfb31e2579646892b9323c1fce0f55c5 Timeout:10m0s Delay:500ms}
+I0426 10:33:09.214736   16765 out.go:179] 💿  Downloading VM boot image ...
+I0426 10:33:09.219490   16765 download.go:113] Downloading: https://storage.googleapis.com/minikube/iso/minikube-v1.38.0-arm64.iso?checksum=file:https://storage.googleapis.com/minikube/iso/minikube-v1.38.0-arm64.iso.sha256 -> /Users/kjaggav1/.minikube/cache/iso/arm64/minikube-v1.38.0-arm64.iso
+I0426 10:33:17.717430   16765 out.go:179] 👍  Starting "minikube" primary control-plane node in "minikube" cluster
+I0426 10:33:17.755232   16765 preload.go:187] Checking if preload exists for k8s version v1.35.1 and runtime docker
+I0426 10:33:17.820934   16765 preload.go:147] Found remote preload: https://storage.googleapis.com/minikube-preloaded-volume-tarballs/v18/v1.35.1/preloaded-images-k8s-v18-v1.35.1-docker-overlay2-arm64.tar.lz4
+I0426 10:33:17.820986   16765 cache.go:66] Caching tarball of preloaded images
+I0426 10:33:17.821325   16765 preload.go:187] Checking if preload exists for k8s version v1.35.1 and runtime docker
+I0426 10:33:17.831367   16765 out.go:179] 💾  Downloading Kubernetes v1.35.1 preload ...
+I0426 10:33:17.845434   16765 preload.go:268] Downloading preload from https://storage.googleapis.com/minikube-preloaded-volume-tarballs/v18/v1.35.1/preloaded-images-k8s-v18-v1.35.1-docker-overlay2-arm64.tar.lz4
+I0426 10:33:17.845440   16765 preload.go:335] getting checksum for preloaded-images-k8s-v18-v1.35.1-docker-overlay2-arm64.tar.lz4 from gcs api...
+I0426 10:33:17.999878   16765 preload.go:312] Got checksum from GCS API "4b79cc83f55e6f982c0bbabf15af8095"
+I0426 10:33:18.001185   16765 download.go:113] Downloading: https://storage.googleapis.com/minikube-preloaded-volume-tarballs/v18/v1.35.1/preloaded-images-k8s-v18-v1.35.1-docker-overlay2-arm64.tar.lz4?checksum=md5:4b79cc83f55e6f982c0bbabf15af8095 -> /Users/kjaggav1/.minikube/cache/preloaded-tarball/preloaded-images-k8s-v18-v1.35.1-docker-overlay2-arm64.tar.lz4
+I0426 10:33:23.378377   16765 cache.go:69] Finished verifying existence of preloaded tar for v1.35.1 on docker
+I0426 10:33:23.383441   16765 profile.go:143] Saving config to /Users/kjaggav1/.minikube/profiles/minikube/config.json ...
+I0426 10:33:23.383513   16765 lock.go:61] WriteFile acquiring /Users/kjaggav1/.minikube/profiles/minikube/config.json: {Name:mk2c8d5b8e468b204efdc3cebc5e087ed495a443 Timeout:1m0s Delay:500ms}
+I0426 10:33:23.384231   16765 start.go:359] acquireMachinesLock for minikube: {Name:mk049b65b86b3a1e933b5bcf2337c429a41a03f8 Timeout:13m0s Delay:500ms}
+I0426 10:33:23.384400   16765 start.go:363] duration metric: took 163.833µs to acquireMachinesLock for "minikube"
+I0426 10:33:23.384417   16765 start.go:92] Provisioning new machine with config: &{Name:minikube KeepContext:false EmbedCerts:false MinikubeISO:https://storage.googleapis.com/minikube/iso/minikube-v1.38.0-arm64.iso KicBaseImage:gcr.io/k8s-minikube/kicbase:v0.0.50@sha256:eb4fec00e8ad70adf8e6436f195cc429825ffb85f95afcdb5d8d9deb576f3e93 Memory:4000 CPUs:2 DiskSize:20000 Driver:vfkit HyperkitVpnKitSock: HyperkitVSockPorts:[] DockerEnv:[] ContainerVolumeMounts:[] InsecureRegistry:[] RegistryMirror:[] HostOnlyCIDR:192.168.59.1/24 HypervVirtualSwitch: HypervUseExternalSwitch:false HypervExternalAdapter: KVMNetwork:default KVMQemuURI:qemu:///system KVMGPU:false KVMHidden:false KVMNUMACount:1 APIServerPort:8443 DockerOpt:[] DisableDriverMounts:false NFSShare:[] NFSSharesRoot:/nfsshares UUID: NoVTXCheck:false DNSProxy:false HostDNSResolver:true HostOnlyNicType:virtio NatNicType:virtio SSHIPAddress: SSHUser:root SSHKey: SSHPort:22 KubernetesConfig:{KubernetesVersion:v1.35.1 ClusterName:minikube Namespace:default APIServerHAVIP: APIServerName:minikubeCA APIServerNames:[] APIServerIPs:[] DNSDomain:cluster.local ContainerRuntime:docker CRISocket: NetworkPlugin:cni FeatureGates: ServiceCIDR:10.96.0.0/12 ImageRepository: LoadBalancerStartIP: LoadBalancerEndIP: CustomIngressCert: RegistryAliases: ExtraOptions:[] ShouldLoadCachedImages:true EnableDefaultCNI:false CNI:} Nodes:[{Name: IP: Port:8443 KubernetesVersion:v1.35.1 ContainerRuntime:docker ControlPlane:true Worker:true}] Addons:map[] CustomAddonImages:map[] CustomAddonRegistries:map[] VerifyComponents:map[apiserver:true system_pods:true] StartHostTimeout:6m0s ScheduledStop:<nil> ExposedPorts:[] ListenAddress: Network:nat Subnet: MultiNodeRequested:false ExtraDisks:0 CertExpiration:26280h0m0s MountString: Mount9PVersion:9p2000.L MountGID:docker MountIP: MountMSize:262144 MountOptions:[] MountPort:0 MountType:9p MountUID:docker BinaryMirror: DisableOptimizations:false DisableMetrics:false DisableCoreDNSLog:false CustomQemuFirmwarePath: SocketVMnetClientPath: SocketVMnetPath: StaticIP: SSHAuthSock: SSHAgentPID:0 GPUs: AutoPauseInterval:1m0s Rosetta:false} &{Name: IP: Port:8443 KubernetesVersion:v1.35.1 ContainerRuntime:docker ControlPlane:true Worker:true}
+I0426 10:33:23.384657   16765 start.go:124] createHost starting for "" (driver="vfkit")
+I0426 10:33:23.397935   16765 out.go:252] 🔥  Creating vfkit VM (CPUs=2, Memory=4000MB, Disk=20000MB) ...
+I0426 10:33:23.398860   16765 start.go:158] libmachine.API.Create for "minikube" (driver="vfkit")
+I0426 10:33:23.398888   16765 client.go:173] LocalClient.Create starting
+I0426 10:33:23.402425   16765 main.go:144] libmachine: Creating CA: /Users/kjaggav1/.minikube/certs/ca.pem
+I0426 10:33:23.604830   16765 main.go:144] libmachine: Creating client certificate: /Users/kjaggav1/.minikube/certs/cert.pem
+I0426 10:33:23.919756   16765 main.go:144] libmachine: Downloading /Users/kjaggav1/.minikube/cache/boot2docker.iso from file:///Users/kjaggav1/.minikube/cache/iso/arm64/minikube-v1.38.0-arm64.iso...
+I0426 10:33:24.293717   16765 main.go:144] libmachine: Extracting bzimage and initrd...
+I0426 10:33:24.634510   16765 main.go:144] libmachine: Creating SSH key...
+I0426 10:33:24.715112   16765 main.go:144] libmachine: Creating Disk image...
+I0426 10:33:24.715118   16765 main.go:144] libmachine: Creating 20000 MB hard disk image...
+I0426 10:33:24.715483   16765 main.go:144] libmachine: DONE writing to /Users/kjaggav1/.minikube/machines/minikube/disk.img and /Users/kjaggav1/.minikube/machines/minikube/disk.img
+I0426 10:33:24.715488   16765 main.go:144] libmachine: Starting vfkit VM...
+I0426 10:33:24.715508   16765 main.go:144] libmachine: executing: vfkit --memory 4000 --cpus 2 --restful-uri unix:///Users/kjaggav1/.minikube/machines/minikube/vfkit.sock --log-level debug --bootloader linux,kernel=/Users/kjaggav1/.minikube/machines/minikube/bzimage,initrd=/Users/kjaggav1/.minikube/machines/minikube/initrd,cmdline="console=hvc0" --device virtio-net,nat,mac=6a:30:ff:51:5f:e4 --device virtio-rng --device virtio-blk,path=/Users/kjaggav1/.minikube/machines/minikube/boot2docker.iso --device virtio-blk,path=/Users/kjaggav1/.minikube/machines/minikube/disk.img --device virtio-serial,logFilePath=/Users/kjaggav1/.minikube/machines/minikube/serial.log
+I0426 10:33:24.738606   16765 main.go:144] libmachine: Attempt 0
+I0426 10:33:24.738650   16765 main.go:144] libmachine: Searching for 6a:30:ff:51:5f:e4 in /var/db/dhcpd_leases ...
+I0426 10:33:26.739479   16765 main.go:144] libmachine: Attempt 1
+I0426 10:33:26.739806   16765 main.go:144] libmachine: Searching for 6a:30:ff:51:5f:e4 in /var/db/dhcpd_leases ...
+I0426 10:33:28.741168   16765 main.go:144] libmachine: Attempt 2
+I0426 10:33:28.741225   16765 main.go:144] libmachine: Searching for 6a:30:ff:51:5f:e4 in /var/db/dhcpd_leases ...
+I0426 10:33:30.742430   16765 main.go:144] libmachine: Attempt 3
+I0426 10:33:30.742472   16765 main.go:144] libmachine: Searching for 6a:30:ff:51:5f:e4 in /var/db/dhcpd_leases ...
+I0426 10:33:30.742795   16765 main.go:144] libmachine: Found 1 entries in /var/db/dhcpd_leases!
+I0426 10:33:30.743075   16765 main.go:144] libmachine: dhcp entry: {Name:minikube IPAddress:192.168.64.2 HWAddress:6a:30:ff:51:5f:e4 ID:1,6a:30:ff:51:5f:e4 Lease:0x69ee3e58}
+I0426 10:33:30.743078   16765 main.go:144] libmachine: Found match: 6a:30:ff:51:5f:e4
+I0426 10:33:30.743100   16765 main.go:144] libmachine: IP: 192.168.64.2
+I0426 10:33:30.743115   16765 main.go:144] libmachine: Waiting until SSH server "192.168.64.2:22" is accessible
+I0426 10:33:30.743118   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:33:30.743985   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:33:31.745125   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:33:31.745819   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:33:32.747033   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:33:32.747895   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:33:33.748646   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:33:33.749206   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:33:34.749300   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:33:34.749763   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:33:35.750869   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:33:35.758534   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:33:36.759639   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:33:36.760739   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:33:37.761316   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:33:37.762303   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:33:38.762884   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:33:38.763606   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:33:39.764693   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:33:39.765392   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:33:40.766492   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:33:40.767148   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:33:41.768271   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:33:41.769248   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:33:42.770352   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:33:42.771307   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:33:43.773182   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:33:43.774424   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:33:44.775557   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:33:44.776310   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:33:45.777403   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:33:45.777649   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:33:46.778741   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:33:46.780150   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:33:47.781375   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:33:47.788639   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:33:48.789726   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:33:48.790701   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:33:49.791033   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:33:49.793044   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:33:50.794166   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:33:50.795430   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:33:51.796516   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:33:51.797330   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:33:52.798399   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:33:52.798975   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:33:53.800081   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:33:53.800962   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:33:54.802109   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:33:54.803057   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:33:55.804159   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:33:55.804909   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:33:56.805993   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:33:56.806751   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:33:57.807879   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:33:57.809829   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:33:58.810956   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:33:58.814010   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:33:59.815102   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:33:59.818029   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:34:00.819114   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:34:00.819877   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:34:01.820083   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:34:01.820681   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:34:02.821263   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:34:02.822143   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:34:03.822370   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:34:03.823074   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:34:04.823186   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:34:04.825216   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:34:05.826256   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:34:05.826996   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:34:06.828115   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:34:06.828744   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:34:07.829825   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:34:07.831079   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:34:08.832216   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:34:08.833049   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:34:09.834157   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:34:09.834851   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:34:10.835583   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:34:10.836314   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:34:11.837391   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:34:11.838774   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:34:12.839879   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:34:12.841181   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:34:13.842265   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:34:13.842690   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:34:14.843863   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:34:14.844458   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:34:15.845563   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:34:15.846357   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:34:16.847436   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:34:16.848068   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:34:17.849162   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:34:17.849780   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:34:18.850166   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:34:18.850905   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:34:19.851204   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:34:19.851517   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:34:20.852600   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:34:20.855689   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:34:21.856196   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:34:21.857156   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:34:22.858142   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:34:22.858781   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:34:23.859930   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:34:23.867928   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:34:24.869026   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:34:24.870109   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:34:25.871027   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:34:25.871826   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:34:26.872903   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:34:26.873949   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:34:27.874292   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:34:27.876197   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:34:28.877284   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:34:28.878035   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:34:29.879227   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:34:29.879910   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:34:30.881014   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:34:30.882561   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:34:31.883042   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:34:31.883686   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:34:32.884888   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:34:32.885658   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:34:33.886341   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:34:33.887013   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:34:34.887698   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:34:34.888693   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:34:35.889592   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:34:35.890332   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:34:36.891458   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:34:36.892312   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:34:37.893400   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:34:37.894319   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:34:38.895829   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:34:38.896920   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:34:39.898012   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:34:39.899105   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:34:40.900379   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:34:40.902320   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:34:41.903428   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:34:41.904571   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:34:42.905695   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:34:42.905994   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:34:43.907086   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:34:43.907514   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:34:44.908586   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:34:44.909720   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:34:45.910871   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:34:45.911368   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:34:46.914244   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:34:46.923974   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:34:47.925209   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:34:47.926551   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:34:48.927339   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:34:48.928797   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:34:49.929908   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:34:49.939385   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:34:50.940569   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:34:50.942555   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:34:51.943255   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:34:51.944628   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:34:52.945999   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:34:52.946943   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:34:53.948028   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:34:53.948657   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:34:54.949731   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:34:54.950388   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:34:55.951478   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:34:55.954622   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:34:56.955409   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:34:56.956170   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:34:57.957250   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:34:57.958313   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:34:58.959375   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:34:58.960102   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:34:59.961157   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:34:59.962532   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:35:00.963890   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:35:00.964697   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:35:01.965797   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:35:01.966463   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:35:02.967563   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:35:02.972277   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:35:03.972353   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:35:03.973089   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:35:04.974184   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:35:04.975071   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:35:05.975635   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:35:05.976408   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:35:06.977493   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:35:06.981325   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:35:07.982420   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:35:07.985555   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:35:08.986639   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:35:08.987383   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:35:09.988235   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:35:09.988922   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:35:10.990002   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:35:10.991246   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:35:11.992298   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:35:11.992928   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:35:12.994011   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:35:12.994844   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:35:13.995596   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:35:13.996413   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:35:14.997477   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:35:14.998085   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:35:15.998577   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:35:15.999284   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:35:17.000365   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:35:17.001515   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:35:18.001689   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:35:18.002507   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:35:19.003567   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:35:19.004241   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:35:20.005297   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:35:20.006282   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:35:21.007368   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:35:21.008514   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:35:22.009617   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:35:22.025440   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:35:23.026473   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:35:23.031778   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:35:24.034146   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:35:24.034713   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:35:25.035301   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:35:25.035749   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:35:26.037212   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:35:26.037601   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:35:27.038657   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:35:27.039709   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:35:28.040762   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:35:28.041919   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:35:29.042975   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:35:29.043453   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:35:30.044215   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:35:30.044480   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:35:31.045643   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:35:31.046332   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:35:32.047915   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:35:32.057411   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:35:33.058491   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:35:33.059358   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:35:34.060423   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:35:34.063124   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:35:35.064202   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:35:35.064999   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:35:36.066071   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:35:36.067734   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:35:37.068797   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:35:37.069289   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:35:38.070485   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:35:38.071296   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:35:39.072364   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:35:39.073384   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:35:40.073879   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:35:40.074772   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:35:41.075853   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:35:41.077526   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:35:42.078176   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:35:42.078613   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:35:43.079747   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:35:43.083791   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:35:44.084896   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:35:44.085719   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:35:45.086809   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:35:45.087695   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:35:46.088860   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:35:46.090018   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:35:47.091073   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:35:47.091866   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:35:48.092053   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:35:48.093927   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:35:49.094678   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:35:49.095589   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:35:50.096675   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:35:50.097917   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:35:51.099061   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:35:51.099815   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:35:52.100909   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:35:52.115913   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:35:53.116811   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:35:53.117536   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:35:54.118608   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:35:54.119454   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:35:55.120519   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:35:55.121602   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:35:56.122707   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:35:56.123474   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:35:57.123667   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:35:57.124668   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:35:58.125813   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:35:58.126520   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:35:59.127617   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:35:59.128712   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:36:00.129829   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:36:00.130671   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:36:01.131748   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:36:01.132115   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:36:02.133168   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:36:02.135324   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:36:03.136416   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:36:03.137099   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:36:04.138249   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:36:04.139076   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:36:05.140135   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:36:05.141023   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:36:06.142124   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:36:06.155354   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:36:07.156422   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:36:07.173851   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:36:08.174916   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:36:08.175397   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:36:09.176219   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:36:09.177000   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:36:10.178078   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:36:10.178819   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:36:11.178983   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:36:11.179380   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:36:12.180816   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:36:12.181505   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:36:13.182578   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:36:13.183725   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:36:14.184254   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:36:14.184891   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:36:15.185955   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:36:15.187098   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:36:16.188183   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:36:16.188852   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:36:17.189917   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:36:17.191039   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:36:18.191246   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:36:18.192626   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:36:19.193677   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:36:19.194349   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:36:20.195428   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:36:20.196366   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:36:21.196504   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:36:21.197183   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:36:22.198244   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:36:22.203315   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:36:23.203977   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:36:23.207224   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:36:24.208307   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:36:24.208989   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:36:25.210068   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:36:25.211296   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:36:26.212604   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:36:26.217700   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:36:27.218779   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:36:27.219412   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:36:28.220467   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:36:28.221287   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:36:29.221760   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:36:29.222184   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:36:30.226291   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:36:30.236595   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:36:31.237590   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:36:31.238100   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:36:32.239159   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:36:32.242246   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:36:33.242912   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:36:33.243520   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:36:34.244425   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:36:34.245964   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:36:35.246794   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:36:35.247642   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:36:36.248707   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:36:36.249354   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:36:37.250450   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:36:37.250668   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:36:38.251860   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:36:38.252288   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:36:39.253919   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:36:39.254779   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:36:40.255267   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:36:40.256574   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:36:41.256686   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:36:41.257378   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:36:42.258437   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:36:42.259167   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:36:43.260224   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:36:43.260570   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:36:44.261647   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:36:44.262289   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:36:45.263366   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:36:45.263990   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:36:46.265074   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:36:46.289716   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:36:47.290214   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:36:47.291088   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:36:48.292149   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:36:48.292486   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:36:49.292637   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:36:49.293541   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:36:50.294857   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:36:50.295449   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:36:51.295553   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:36:51.296334   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:36:52.297393   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:36:52.298137   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:36:53.299220   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:36:53.300034   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:36:54.301123   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:36:54.301716   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:36:55.302818   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:36:55.306393   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:36:56.307469   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:36:56.308122   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:36:57.309208   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:36:57.309771   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:36:58.310837   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:36:58.312229   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:36:59.313312   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:36:59.313977   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:37:00.315052   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:37:00.315954   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:37:01.318018   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:37:01.320159   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:37:02.321293   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:37:02.321863   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:37:03.322954   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:37:03.323882   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:37:04.324956   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:37:04.325704   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:37:05.326785   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:37:05.327460   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:37:06.328511   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:37:06.328919   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:37:07.329988   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:37:07.331022   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:37:08.332095   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:37:08.333287   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:37:09.334386   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:37:09.335391   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:37:10.336315   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:37:10.337584   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:37:11.340263   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:37:11.340796   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:37:12.341863   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:37:12.342998   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:37:13.344101   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:37:13.363127   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:37:14.364221   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:37:14.364937   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:37:15.366022   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:37:15.366261   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:37:16.366479   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:37:16.367576   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:37:17.368707   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:37:17.370144   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:37:18.370881   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:37:18.373410   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:37:19.374521   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:37:19.375221   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:37:20.376269   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:37:20.377020   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:37:21.377779   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:37:21.378508   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:37:22.379605   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:37:22.382482   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:37:23.383588   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:37:23.385747   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:37:24.386816   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:37:24.389158   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:37:25.390243   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:37:25.391688   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:37:26.392749   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:37:26.394064   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:37:27.394572   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:37:27.395937   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:37:28.397005   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:37:28.397659   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:37:29.398716   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:37:29.399642   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:37:30.400344   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:37:30.401303   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:37:31.402365   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:37:31.403312   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:37:32.404378   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:37:32.405035   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:37:33.406098   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:37:33.406752   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:37:34.407803   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:37:34.410218   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:37:35.411278   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:37:35.412040   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:37:36.412471   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:37:36.413502   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:37:37.414239   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:37:37.415773   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:37:38.416882   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:37:38.417625   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:37:39.418686   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:37:39.420409   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:37:40.421465   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:37:40.433254   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:37:41.434583   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:37:41.435307   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:37:42.436375   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:37:42.437091   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:37:43.438148   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:37:43.438811   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:37:44.439089   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:37:44.440461   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:37:45.441517   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:37:45.441760   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:37:46.443213   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:37:46.444659   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:37:47.445733   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:37:47.447576   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:37:48.447754   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:37:48.448417   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:37:49.449736   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:37:49.450566   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:37:50.451634   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:37:50.452379   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:37:51.452875   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:37:51.456190   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:37:52.457060   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:37:52.457746   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:37:53.458844   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:37:53.460490   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:37:54.461561   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:37:54.464433   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:37:55.464689   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:37:55.465582   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:37:56.466670   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:37:56.467191   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:37:57.468287   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:37:57.469816   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:37:58.470905   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:37:58.471718   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:37:59.472814   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:37:59.473975   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:38:00.475057   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:38:00.477816   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:38:01.478925   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:38:01.480123   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:38:02.481193   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:38:02.481647   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:38:03.482713   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:38:03.483553   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:38:04.484644   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:38:04.485742   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:38:05.486545   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:38:05.487493   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:38:06.488579   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:38:06.489319   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:38:07.490389   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:38:07.490987   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:38:08.492047   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:38:08.492890   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:38:09.493954   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:38:09.495027   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:38:10.496128   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:38:10.496906   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:38:11.498022   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:38:11.498350   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:38:12.499407   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:38:12.499667   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:38:13.500727   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:38:13.501409   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:38:14.502507   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:38:14.504250   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:38:15.505280   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:38:15.505970   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:38:16.507048   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:38:16.508006   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:38:17.509096   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:38:17.516990   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:38:18.518133   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:38:18.519510   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:38:19.520118   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:38:19.520747   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:38:20.521806   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:38:20.522822   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:38:21.523890   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:38:21.524985   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:38:22.525614   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:38:22.526443   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:38:23.527510   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:38:23.537222   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:38:24.538288   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:38:24.539116   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:38:25.540204   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:38:25.541212   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:38:26.542279   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:38:26.543560   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:38:27.544615   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:38:27.556429   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:38:28.557493   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:38:28.557918   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:38:29.558200   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:38:29.558937   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:38:30.560040   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.2:22"
+I0426 10:38:30.560954   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.2:22: connect: no route to host
+I0426 10:38:31.565280   16765 client.go:176] duration metric: took 5m8.161522333s to LocalClient.Create
+I0426 10:38:33.568780   16765 start.go:127] duration metric: took 5m10.179836s to createHost
+I0426 10:38:33.569260   16765 start.go:82] releasing machines lock for "minikube", held for 5m10.180694334s
+W0426 10:38:33.572312   16765 start.go:726] error starting host: creating host: create: creating: timeout waiting for SSH server "192.168.64.2:22"
+I0426 10:38:33.599983   16765 out.go:179] 🔥  Deleting "minikube" in vfkit ...
+I0426 10:38:35.494052   16765 main.go:144] libmachine: Set vfkit state: {State:HardStop}
+W0426 10:38:35.578326   16765 out.go:285] 🤦  StartHost failed, but will try again: creating host: create: creating: timeout waiting for SSH server "192.168.64.2:22"
+I0426 10:38:35.578354   16765 start.go:742] Will try again in 5 seconds ...
+I0426 10:38:40.580162   16765 start.go:359] acquireMachinesLock for minikube: {Name:mk049b65b86b3a1e933b5bcf2337c429a41a03f8 Timeout:13m0s Delay:500ms}
+I0426 10:38:40.580533   16765 start.go:363] duration metric: took 158.625µs to acquireMachinesLock for "minikube"
+I0426 10:38:40.580929   16765 start.go:92] Provisioning new machine with config: &{Name:minikube KeepContext:false EmbedCerts:false MinikubeISO:https://storage.googleapis.com/minikube/iso/minikube-v1.38.0-arm64.iso KicBaseImage:gcr.io/k8s-minikube/kicbase:v0.0.50@sha256:eb4fec00e8ad70adf8e6436f195cc429825ffb85f95afcdb5d8d9deb576f3e93 Memory:4000 CPUs:2 DiskSize:20000 Driver:vfkit HyperkitVpnKitSock: HyperkitVSockPorts:[] DockerEnv:[] ContainerVolumeMounts:[] InsecureRegistry:[] RegistryMirror:[] HostOnlyCIDR:192.168.59.1/24 HypervVirtualSwitch: HypervUseExternalSwitch:false HypervExternalAdapter: KVMNetwork:default KVMQemuURI:qemu:///system KVMGPU:false KVMHidden:false KVMNUMACount:1 APIServerPort:8443 DockerOpt:[] DisableDriverMounts:false NFSShare:[] NFSSharesRoot:/nfsshares UUID: NoVTXCheck:false DNSProxy:false HostDNSResolver:true HostOnlyNicType:virtio NatNicType:virtio SSHIPAddress: SSHUser:root SSHKey: SSHPort:22 KubernetesConfig:{KubernetesVersion:v1.35.1 ClusterName:minikube Namespace:default APIServerHAVIP: APIServerName:minikubeCA APIServerNames:[] APIServerIPs:[] DNSDomain:cluster.local ContainerRuntime:docker CRISocket: NetworkPlugin:cni FeatureGates: ServiceCIDR:10.96.0.0/12 ImageRepository: LoadBalancerStartIP: LoadBalancerEndIP: CustomIngressCert: RegistryAliases: ExtraOptions:[] ShouldLoadCachedImages:true EnableDefaultCNI:false CNI:} Nodes:[{Name: IP: Port:8443 KubernetesVersion:v1.35.1 ContainerRuntime:docker ControlPlane:true Worker:true}] Addons:map[] CustomAddonImages:map[] CustomAddonRegistries:map[] VerifyComponents:map[apiserver:true system_pods:true] StartHostTimeout:6m0s ScheduledStop:<nil> ExposedPorts:[] ListenAddress: Network:nat Subnet: MultiNodeRequested:false ExtraDisks:0 CertExpiration:26280h0m0s MountString: Mount9PVersion:9p2000.L MountGID:docker MountIP: MountMSize:262144 MountOptions:[] MountPort:0 MountType:9p MountUID:docker BinaryMirror: DisableOptimizations:false DisableMetrics:false DisableCoreDNSLog:false CustomQemuFirmwarePath: SocketVMnetClientPath: SocketVMnetPath: StaticIP: SSHAuthSock: SSHAgentPID:0 GPUs: AutoPauseInterval:1m0s Rosetta:false} &{Name: IP: Port:8443 KubernetesVersion:v1.35.1 ContainerRuntime:docker ControlPlane:true Worker:true}
+I0426 10:38:40.582155   16765 start.go:124] createHost starting for "" (driver="vfkit")
+I0426 10:38:40.592958   16765 out.go:252] 🔥  Creating vfkit VM (CPUs=2, Memory=4000MB, Disk=20000MB) ...
+I0426 10:38:40.593845   16765 start.go:158] libmachine.API.Create for "minikube" (driver="vfkit")
+I0426 10:38:40.594045   16765 client.go:173] LocalClient.Create starting
+I0426 10:38:40.594893   16765 main.go:144] libmachine: Reading certificate data from /Users/kjaggav1/.minikube/certs/ca.pem
+I0426 10:38:40.595080   16765 main.go:144] libmachine: Decoding PEM data...
+I0426 10:38:40.595378   16765 main.go:144] libmachine: Parsing certificate...
+I0426 10:38:40.598328   16765 main.go:144] libmachine: Reading certificate data from /Users/kjaggav1/.minikube/certs/cert.pem
+I0426 10:38:40.598522   16765 main.go:144] libmachine: Decoding PEM data...
+I0426 10:38:40.598535   16765 main.go:144] libmachine: Parsing certificate...
+I0426 10:38:40.602983   16765 main.go:144] libmachine: Downloading /Users/kjaggav1/.minikube/cache/boot2docker.iso from file:///Users/kjaggav1/.minikube/cache/iso/arm64/minikube-v1.38.0-arm64.iso...
+I0426 10:38:40.890667   16765 main.go:144] libmachine: Extracting bzimage and initrd...
+I0426 10:38:41.227944   16765 main.go:144] libmachine: Creating SSH key...
+I0426 10:38:41.351857   16765 main.go:144] libmachine: Creating Disk image...
+I0426 10:38:41.351866   16765 main.go:144] libmachine: Creating 20000 MB hard disk image...
+I0426 10:38:41.352706   16765 main.go:144] libmachine: DONE writing to /Users/kjaggav1/.minikube/machines/minikube/disk.img and /Users/kjaggav1/.minikube/machines/minikube/disk.img
+I0426 10:38:41.352709   16765 main.go:144] libmachine: Starting vfkit VM...
+I0426 10:38:41.352735   16765 main.go:144] libmachine: executing: vfkit --memory 4000 --cpus 2 --restful-uri unix:///Users/kjaggav1/.minikube/machines/minikube/vfkit.sock --log-level debug --bootloader linux,kernel=/Users/kjaggav1/.minikube/machines/minikube/bzimage,initrd=/Users/kjaggav1/.minikube/machines/minikube/initrd,cmdline="console=hvc0" --device virtio-net,nat,mac=2a:31:48:49:1c:9c --device virtio-rng --device virtio-blk,path=/Users/kjaggav1/.minikube/machines/minikube/boot2docker.iso --device virtio-blk,path=/Users/kjaggav1/.minikube/machines/minikube/disk.img --device virtio-serial,logFilePath=/Users/kjaggav1/.minikube/machines/minikube/serial.log
+I0426 10:38:41.378988   16765 main.go:144] libmachine: Attempt 0
+I0426 10:38:41.379243   16765 main.go:144] libmachine: Searching for 2a:31:48:49:1c:9c in /var/db/dhcpd_leases ...
+I0426 10:38:41.379629   16765 main.go:144] libmachine: Found 1 entries in /var/db/dhcpd_leases!
+I0426 10:38:41.379657   16765 main.go:144] libmachine: dhcp entry: {Name:minikube IPAddress:192.168.64.2 HWAddress:6a:30:ff:51:5f:e4 ID:1,6a:30:ff:51:5f:e4 Lease:0x69ee3e58}
+I0426 10:38:43.380957   16765 main.go:144] libmachine: Attempt 1
+I0426 10:38:43.381064   16765 main.go:144] libmachine: Searching for 2a:31:48:49:1c:9c in /var/db/dhcpd_leases ...
+I0426 10:38:43.381264   16765 main.go:144] libmachine: Found 1 entries in /var/db/dhcpd_leases!
+I0426 10:38:43.381296   16765 main.go:144] libmachine: dhcp entry: {Name:minikube IPAddress:192.168.64.2 HWAddress:6a:30:ff:51:5f:e4 ID:1,6a:30:ff:51:5f:e4 Lease:0x69ee3e58}
+I0426 10:38:45.382419   16765 main.go:144] libmachine: Attempt 2
+I0426 10:38:45.382460   16765 main.go:144] libmachine: Searching for 2a:31:48:49:1c:9c in /var/db/dhcpd_leases ...
+I0426 10:38:45.382582   16765 main.go:144] libmachine: Found 2 entries in /var/db/dhcpd_leases!
+I0426 10:38:45.382601   16765 main.go:144] libmachine: dhcp entry: {Name:minikube IPAddress:192.168.64.3 HWAddress:2a:31:48:49:1c:9c ID:1,2a:31:48:49:1c:9c Lease:0x69ee3f94}
+I0426 10:38:45.382602   16765 main.go:144] libmachine: Found match: 2a:31:48:49:1c:9c
+I0426 10:38:45.382618   16765 main.go:144] libmachine: IP: 192.168.64.3
+I0426 10:38:45.382788   16765 main.go:144] libmachine: Waiting until SSH server "192.168.64.3:22" is accessible
+I0426 10:38:45.382791   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:38:45.384161   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:38:46.385248   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:38:46.386358   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:38:47.387509   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:38:47.388360   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:38:48.389437   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:38:48.389687   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:38:49.391568   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:38:49.395833   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:38:50.396654   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:38:50.397862   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:38:51.398267   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:38:51.399594   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:38:52.400491   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:38:52.402584   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:38:53.403676   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:38:53.404370   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:38:54.405444   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:38:54.409059   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:38:55.410127   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:38:55.411123   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:38:56.411302   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:38:56.412221   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:38:57.413274   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:38:57.432801   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:38:58.433898   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:38:58.435283   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:38:59.436360   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:38:59.453911   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:39:00.455086   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:39:00.455673   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:39:01.456744   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:39:01.457756   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:39:02.458810   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:39:02.459854   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:39:03.460301   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:39:03.461214   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:39:04.461374   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:39:04.464705   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:39:05.465761   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:39:05.466539   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:39:06.467654   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:39:06.469373   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:39:07.470447   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:39:07.480633   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:39:08.481768   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:39:08.482561   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:39:09.483106   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:39:09.483408   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:39:10.483647   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:39:10.484292   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:39:11.485376   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:39:11.486094   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:39:12.487206   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:39:12.501910   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:39:13.502989   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:39:13.503621   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:39:14.504680   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:39:14.544775   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:39:15.545815   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:39:15.546409   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:39:16.547587   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:39:16.548517   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:39:17.549569   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:39:17.550281   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:39:18.551341   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:39:18.552054   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:39:19.553128   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:39:19.555068   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:39:20.556132   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:39:20.557021   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:39:21.558085   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:39:21.558963   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:39:22.560015   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:39:22.560655   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:39:23.561850   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:39:23.562375   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:39:24.563471   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:39:24.564921   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:39:25.565993   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:39:25.567135   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:39:26.567877   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:39:26.568235   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:39:27.569311   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:39:27.570113   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:39:28.571206   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:39:28.571912   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:39:29.572979   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:39:29.574117   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:39:30.575199   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:39:30.575899   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:39:31.576954   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:39:31.578936   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:39:32.579375   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:39:32.579664   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:39:33.580728   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:39:33.581620   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:39:34.581735   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:39:34.582869   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:39:35.583378   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:39:35.583919   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:39:36.584982   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:39:36.586752   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:39:37.589090   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:39:37.592307   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:39:38.592816   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:39:38.593381   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:39:39.593520   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:39:39.595497   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:39:40.596596   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:39:40.597078   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:39:41.598162   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:39:41.598867   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:39:42.599936   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:39:42.600755   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:39:43.605732   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:39:43.612172   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:39:44.613235   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:39:44.613622   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:39:45.614701   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:39:45.618398   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:39:46.619485   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:39:46.620195   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:39:47.621277   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:39:47.621998   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:39:48.622163   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:39:48.622883   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:39:49.624420   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:39:49.625762   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:39:50.626813   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:39:50.627528   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:39:51.627736   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:39:51.629508   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:39:52.630568   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:39:52.631904   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:39:53.632988   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:39:53.633630   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:39:54.634678   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:39:54.635495   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:39:55.636591   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:39:55.637505   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:39:56.638559   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:39:56.639273   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:39:57.640125   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:39:57.642065   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:39:58.642885   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:39:58.644041   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:39:59.645130   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:39:59.645631   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:40:00.646687   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:40:00.650986   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:40:01.652086   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:40:01.653040   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:40:02.654128   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:40:02.654593   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:40:03.655665   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:40:03.656426   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:40:04.657580   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:40:04.663947   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:40:05.672397   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:40:05.680642   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:40:06.681702   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:40:06.682550   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:40:07.684272   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:40:07.685932   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:40:08.686989   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:40:08.687969   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:40:09.689062   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:40:09.689690   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:40:10.690150   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:40:10.691491   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:40:11.692558   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:40:11.696507   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:40:12.697631   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:40:12.699710   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:40:13.700768   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:40:13.704352   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:40:14.705408   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:40:14.706379   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:40:15.706680   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:40:15.707295   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:40:16.708296   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:40:16.709113   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:40:17.709362   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:40:17.710061   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:40:18.711120   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:40:18.711444   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:40:19.712519   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:40:19.713061   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:40:20.714122   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:40:20.714827   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:40:21.715897   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:40:21.718335   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:40:22.719417   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:40:22.720234   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:40:23.721294   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:40:23.728534   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:40:24.729593   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:40:24.730792   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:40:25.731892   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:40:25.733094   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:40:26.734146   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:40:26.734826   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:40:27.735894   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:40:27.736821   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:40:28.737882   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:40:28.739204   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:40:29.739503   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:40:29.740328   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:40:30.741079   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:40:30.741837   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:40:31.742924   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:40:31.755494   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:40:32.755599   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:40:32.756093   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:40:33.757107   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:40:33.757354   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:40:34.757957   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:40:34.758824   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:40:35.759900   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:40:35.760578   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:40:36.761630   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:40:36.775492   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:40:37.776613   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:40:37.777944   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:40:38.778310   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:40:38.778757   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:40:39.779835   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:40:39.780276   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:40:40.781399   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:40:40.783125   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:40:41.783308   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:40:41.790315   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:40:42.791377   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:40:42.792353   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:40:43.793419   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:40:43.793900   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:40:44.795072   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:40:44.797311   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:40:45.798429   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:40:45.799645   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:40:46.799724   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:40:46.800181   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:40:47.801350   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:40:47.802512   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:40:48.803595   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:40:48.805843   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:40:49.806911   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:40:49.807918   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:40:50.808974   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:40:50.810007   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:40:51.811093   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:40:51.813529   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:40:52.814593   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:40:52.814851   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:40:53.816063   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:40:53.816758   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:40:54.817902   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:40:54.840085   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:40:55.840442   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:40:55.841719   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:40:56.841943   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:40:56.842181   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:40:57.843255   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:40:57.843902   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:40:58.844923   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:40:58.845650   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:40:59.846737   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:40:59.847945   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:41:00.849005   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:41:00.849740   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:41:01.849967   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:41:01.851479   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:41:02.852542   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:41:02.853748   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:41:03.854842   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:41:03.855606   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:41:04.856672   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:41:04.857814   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:41:05.858910   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:41:05.859803   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:41:06.859990   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:41:06.860823   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:41:07.861889   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:41:07.862733   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:41:08.864015   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:41:08.864688   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:41:09.866000   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:41:09.866626   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:41:10.867475   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:41:10.868146   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:41:11.869200   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:41:11.869887   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:41:12.870978   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:41:12.871999   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:41:13.873121   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:41:13.873539   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:41:14.874617   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:41:14.875316   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:41:15.876386   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:41:15.877077   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:41:16.878179   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:41:16.878905   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:41:17.879965   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:41:17.880653   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:41:18.881733   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:41:18.883021   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:41:19.883830   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:41:19.884626   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:41:20.885726   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:41:20.886461   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:41:21.887544   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:41:21.888534   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:41:22.890839   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:41:22.891638   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:41:23.892710   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:41:23.893443   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:41:24.893705   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:41:24.894469   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:41:25.895539   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:41:25.899151   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:41:26.900234   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:41:26.900862   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:41:27.901940   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:41:27.902882   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:41:28.903317   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:41:28.913945   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:41:29.915028   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:41:29.921061   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:41:30.924963   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:41:30.927231   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:41:31.928252   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:41:31.931031   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:41:32.932155   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:41:32.932997   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:41:33.933045   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:41:33.934213   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:41:34.935321   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:41:34.935984   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:41:35.937075   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:41:35.937728   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:41:36.937915   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:41:36.938728   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:41:37.938885   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:41:37.939802   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:41:38.940882   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:41:38.941555   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:41:39.942609   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:41:39.943380   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:41:40.944496   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:41:40.946180   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:41:41.947247   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:41:41.948133   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:41:42.949196   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:41:42.949975   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:41:43.950188   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:41:43.951675   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:41:44.952805   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:41:44.953700   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:41:45.954753   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:41:45.955857   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:41:46.956968   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:41:46.957712   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:41:47.959707   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:41:47.961188   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:41:48.962291   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:41:48.963492   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:41:49.964575   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:41:49.965307   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:41:50.966438   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:41:50.967211   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:41:51.968294   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:41:51.969242   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:41:52.970327   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:41:52.971011   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:41:53.972119   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:41:53.977676   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:41:54.978748   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:41:54.979623   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:41:55.980691   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:41:55.981477   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:41:56.981962   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:41:56.982847   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:41:57.983891   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:41:57.984676   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:41:58.985780   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:41:58.986796   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:41:59.987883   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:41:59.988886   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:42:00.989954   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:42:00.990758   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:42:01.991847   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:42:01.992880   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:42:02.993936   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:42:02.995128   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:42:03.996310   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:42:03.997083   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:42:04.998175   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:42:04.999040   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:42:05.999153   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:42:05.999804   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:42:07.000177   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:42:07.001386   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:42:08.002115   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:42:08.002870   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:42:09.003225   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:42:09.004433   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:42:10.005488   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:42:10.007673   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:42:11.008748   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:42:11.010367   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:42:12.011470   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:42:12.011923   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:42:13.012504   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:42:13.013322   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:42:14.014153   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:42:14.014608   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:42:15.015667   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:42:15.016397   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:42:16.017448   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:42:16.019145   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:42:17.020024   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:42:17.020832   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:42:18.021697   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:42:18.023988   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:42:19.024807   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:42:19.025497   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:42:20.026570   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:42:20.027774   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:42:21.028995   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:42:21.029916   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:42:22.030531   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:42:22.031256   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:42:23.032311   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:42:23.033067   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:42:24.034147   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:42:24.034803   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:42:25.035881   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:42:25.036944   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:42:26.038023   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:42:26.039136   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:42:27.040238   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:42:27.041015   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:42:28.041712   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:42:28.044475   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:42:29.045530   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:42:29.046923   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:42:30.047129   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:42:30.048336   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:42:31.049434   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:42:31.050233   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:42:32.050692   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:42:32.051755   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:42:33.052843   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:42:33.056232   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:42:34.057366   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:42:34.059831   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:42:35.060932   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:42:35.061345   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:42:36.062476   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:42:36.062939   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:42:37.064011   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:42:37.065002   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:42:38.065965   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:42:38.067905   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:42:39.069154   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:42:39.070543   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:42:40.071514   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:42:40.086017   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:42:41.087130   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:42:41.087836   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:42:42.088787   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:42:42.089680   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:42:43.090760   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:42:43.091317   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:42:44.092393   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:42:44.093122   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:42:45.094189   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:42:45.094930   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:42:46.100011   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:42:46.101326   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:42:47.102385   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:42:47.103602   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:42:48.104655   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:42:48.105989   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:42:49.107055   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:42:49.108952   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:42:50.110077   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:42:50.110901   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:42:51.112001   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:42:51.112704   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:42:52.113772   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:42:52.114656   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:42:53.115338   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:42:53.115771   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:42:54.115921   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:42:54.116810   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:42:55.117868   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:42:55.119065   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:42:56.120148   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:42:56.121523   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:42:57.122591   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:42:57.123245   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:42:58.124364   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:42:58.125112   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:42:59.126166   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:42:59.127890   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:43:00.128945   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:43:00.129596   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:43:01.130675   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:43:01.131451   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:43:02.132554   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:43:02.133264   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:43:03.134323   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:43:03.134793   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:43:04.135440   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:43:04.135904   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:43:05.136966   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:43:05.137775   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:43:06.138909   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:43:06.139816   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:43:07.139892   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:43:07.140852   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:43:08.141924   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:43:08.142693   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:43:09.143802   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:43:09.144399   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:43:10.145467   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:43:10.146068   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:43:11.147128   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:43:11.147728   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:43:12.148811   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:43:12.149715   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:43:13.149953   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:43:13.150254   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:43:14.151067   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:43:14.155330   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:43:15.156399   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:43:15.156844   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:43:16.157908   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:43:16.161801   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:43:17.162858   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:43:17.163694   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:43:18.164748   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:43:18.165565   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:43:19.166620   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:43:19.168261   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:43:20.168374   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:43:20.169096   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:43:21.170148   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:43:21.171106   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:43:22.171793   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:43:22.173733   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:43:23.174785   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:43:23.175451   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:43:24.176522   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:43:24.177414   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:43:25.178477   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:43:25.179170   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:43:26.180253   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:43:26.181197   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:43:27.182262   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:43:27.183939   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:43:28.185052   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:43:28.185886   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:43:29.186957   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:43:29.190086   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:43:30.191201   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:43:30.199274   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:43:31.200413   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:43:31.201306   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:43:32.201405   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:43:32.202831   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:43:33.203173   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:43:33.204330   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:43:34.205389   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:43:34.206078   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:43:35.207157   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:43:35.207867   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:43:36.208947   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:43:36.210191   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:43:37.210779   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:43:37.213496   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:43:38.214601   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:43:38.223614   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:43:39.224681   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:43:39.225734   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:43:40.226809   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:43:40.241861   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:43:41.241973   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:43:41.242308   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:43:42.242653   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:43:42.243511   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:43:43.244636   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:43:43.245506   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:43:44.246275   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:43:44.248907   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:43:45.249982   16765 main.go:144] libmachine: Dialing to SSH server "192.168.64.3:22"
+I0426 10:43:45.250674   16765 main.go:144] libmachine: Failed to dial: dial tcp 192.168.64.3:22: connect: no route to host
+I0426 10:43:46.254851   16765 client.go:176] duration metric: took 5m5.654986959s to LocalClient.Create
+I0426 10:43:48.258299   16765 start.go:127] duration metric: took 5m7.671922708s to createHost
+I0426 10:43:48.258737   16765 start.go:82] releasing machines lock for "minikube", held for 5m7.673921459s
+W0426 10:43:48.267779   16765 out.go:285] 😿  Failed to start vfkit VM. Running "minikube delete" may fix it: creating host: create: creating: timeout waiting for SSH server "192.168.64.3:22"
+I0426 10:43:48.277063   16765 out.go:203] 
+W0426 10:43:48.287894   16765 out.go:285] ❌  Exiting due to GUEST_PROVISION: error provisioning guest: Failed to start host: creating host: create: creating: timeout waiting for SSH server "192.168.64.3:22"
+W0426 10:43:48.287915   16765 out.go:285] 
+W0426 10:43:48.289677   16765 out.go:308] [31m╭───────────────────────────────────────────────────────────────────────────────────────────╮[0m
+[31m│[0m                                                                                           [31m│[0m
+[31m│[0m    😿  If the above advice does not help, please let us know:                             [31m│[0m
+[31m│[0m    👉  https://github.com/kubernetes/minikube/issues/new/choose                           [31m│[0m
+[31m│[0m                                                                                           [31m│[0m
+[31m│[0m    Please run `minikube logs --file=logs.txt` and attach logs.txt to the GitHub issue.    [31m│[0m
+[31m│[0m                                                                                           [31m│[0m
+[31m╰───────────────────────────────────────────────────────────────────────────────────────────╯[0m
+I0426 10:43:48.301833   16765 out.go:203] 
+
+
