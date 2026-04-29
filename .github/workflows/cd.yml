@@ -86,23 +86,23 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
 
-      - name: Commit the new version
-        run: |
+      #- name: Commit the new version
+      #  run: |
           # Make sure we're on main branch
-          git checkout main
+      #    git checkout main
 
           # Update the version in all files using the npm script
-          npm run version:update ${{ steps.version.outputs.current-version }}
+      #    npm run version:update ${{ steps.version.outputs.current-version }}
 
-          git add package.json manifest.json CITATION.cff README.md gemini-extension.json
-          git commit -m "Bump version to ${{ steps.version.outputs.current-version }}"
+      #    git add package.json manifest.json CITATION.cff README.md gemini-extension.json
+      #    git commit -m "Bump version to ${{ steps.version.outputs.current-version }}"
 
           # Create and push the tag
-          git tag ${{ steps.version.outputs.current-version }}
+      #    git tag ${{ steps.version.outputs.current-version }}
 
           # Push both the commit and the tag
-          git push origin main
-          git push origin ${{ steps.version.outputs.current-version }}
+      #    git push origin main
+      #    git push origin ${{ steps.version.outputs.current-version }}
 
       - name: Build For production
         run: bun run build
