@@ -63,8 +63,9 @@ export function startSSEServer(server: Server) {
       "Invalid PORT environment variable, using default port 3000."
     );
   }
-
-  const host = process.env.HOST || "localhost";
+  
+  //const host = process.env.HOST || "localhost";
+  const host = process.env.HOST || "0.0.0.0";
   app.listen(port, host, () => {
     console.log(
       `mcp-kubernetes-server is listening on port ${port}\nUse the following url to connect to the server:\nhttp://${host}:${port}/sse`
